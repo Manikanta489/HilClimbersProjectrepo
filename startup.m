@@ -9,7 +9,7 @@ close all
 %% Setting paths 
 
 addpath('1_Model')
-addpath('1_Model\CustomLibrary')
+addpath('1_Model\CustomLibrary\')
 addpath('6_PreviousModels')
 addpath('6_PreviousModels\Individual')
 addpath('6_PreviousModels\Integrated')
@@ -22,7 +22,7 @@ dlgtitle='Input';
 dims=[1 35];
 definput={'0'};
 answer=inputdlg(prompt,dlgtitle,dims,definput);
-test_mode=str2double(answer{:});
+input_mode=str2double(answer{:});
 %% Selection of inputs for ECU subsystem - manual / SIL automated test
 prompt2 = {'Enter = 0 for manual test, Enter = 1 for sil automated test'};
 dlgtitle2='Input';
