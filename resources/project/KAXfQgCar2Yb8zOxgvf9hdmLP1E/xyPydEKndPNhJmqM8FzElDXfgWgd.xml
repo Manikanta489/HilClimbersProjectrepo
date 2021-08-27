@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="1_Model/HILClimbers_V5/power_window_ECU.slx" Name="power_window_ECU">
+    <Extension Value="141d8276-172d-4623-b7c7-21bd3af3602a" Name="StartUpPrev" />
+</Info>
