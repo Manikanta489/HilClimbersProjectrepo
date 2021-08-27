@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<Info Type="StartUp" Visible="0" Icon="" File="1_Model/HILClimbers_V5/power_window_system_impact.slx" Name="power_window_system_impact">
+<Info Type="StartUp" Visible="0" Icon="" File="1_Model/temp/Individual/power_window_system_impact.slx" Name="power_window_system_impact">
     <Extension Value="e6db9a89-0f9f-4449-9e34-01c58a29da8a" Name="StartUpPrev" />
 </Info>
