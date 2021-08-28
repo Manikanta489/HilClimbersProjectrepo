@@ -14,7 +14,7 @@ close all
 %% Setting paths 
 
 addpath('1_Model')
-addpath('1_Model\CustomLibrary/customFiles')
+addpath('1_Model\CustomLibrary\customFiles')
 addpath('6_PreviousModels')
 addpath('6_PreviousModels\Individual')
 addpath('6_PreviousModels\Integrated')
